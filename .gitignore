@@ -134,7 +134,10 @@ dmypy.json
 word2vec.model
 *.json
 data/articles_df.pkl
+data/drug_articles.pkl
+.DS_Store
 output/models/
+output/embeddings/
 *.model
 *.npy
 
